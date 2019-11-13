@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+#root > div,
+div[data-reactroot] {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  color: #25712A;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
+p {
+  text-align: center;
+  font-size: 1em;
+  color: #25712A;
+}
+
+.logincontainer{
+  background-image: url("https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.WHOOOHOOO {
+  background-color: black;
+}
+.signups{
+  padding-top: 80px;
+  padding-bottom: 100px;
+  background-image: url("https://images.pexels.com/photos/890507/pexels-photo-890507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.top{
+  font-size: 2em;
+  color: #25712A;
+}
+
+.aboutus{
+  margin-top: 30px;
+  background: rgba(249, 249, 253, 0.75);
+}
+
+.aboutapp{
+  margin-bottom: 30px;
+  background: rgba(249, 249, 253, 0.75);
+}
+
+.btn{
+  color:#25712A;
+  font-size: 20px;
+}
+
+.signupcc{
+  background: rgba(249, 249, 253, 0.75);
+  padding-bottom: 20px;
+  width: 600px;
+}
+
+.text-center{
+  margin-top: 50px;
+}
+
+.signup {
+  background-color: rgba(249, 249, 253, 0.75);
+  width: 100%;
+  overflow: hidden;
+}
+
+.logincc{
+  background: rgba(249, 249, 253, 0.75);
+  text-align: center;
+  width: 80%;
+}
+
+.inv{
+  margin-top: 50px;
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.inv2{
+  background-color: #A1D5A9;
+   margin-bottom: 30px;
+}
+
+.homebb{
+  background: #A1D5A9;
+  margin-top: 50px;
+  margin-left: 500px;
+  width: 600px;
+}
+
+.homebbv{
+  background: #A1D5A9;
+  margin-top: 50px;
+  margin-left: 500px;
+  width: 600px;
+}
